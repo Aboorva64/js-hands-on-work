@@ -8,6 +8,7 @@ const done = function (fn) {
 }
 done(two, work)
 console.log("test commit")
+console.log("super")
 /*
 //1.
 function stt(x) {
